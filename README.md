@@ -14,7 +14,7 @@
 ![image](https://github.com/Sameer-13/16-Bit-Pipelined-Processor-Design/assets/106761486/363486e7-69ff-4912-a553-85195d099082)
 
 
-## Instruction Encoding:
+## Instructions Encoding Table:
 ![image](https://github.com/Sameer-13/16-Bit-Pipelined-Processor-Design/assets/106761486/503a0e81-1955-40b2-b433-8a5771c36dc6)
 
 
