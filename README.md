@@ -351,7 +351,7 @@ Input: ```No Input```
 Expected output: ```0030 0030 002f 0000 003f 0020 ffdf 001f 003f ffff 0000 0001 0001 0000 fffe 7fff ffff ffff 8000 ffff 0003 003e 7fff ffff 002f 0001 0002 0003 0004 0005 0006 0001 0002 0003 0004 0005 0006 0001 0002 0003 0004 0005 0006 0081 0088```
 
 ## Authors
-Sameer Alsabei(Sameer-13) [Github](https://github.com/Sameer-13) [Twitter](https://mobile.twitter.com/Sameer_Alsabei), [Linked in](https://www.linkedin.com/in/sameer-alsabea-610291239/)
+Sameer Alsabei(Sameer-13) [Github](https://github.com/Sameer-13), [Twitter](https://x.com/Sameer_Alsabea), [Linked in](https://www.linkedin.com/in/sameer-alsabea-610291239/)
 
 Hasan(SultanAbbas0) [Github](), [Twitter](), [Linked in]()
 
