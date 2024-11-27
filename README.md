@@ -353,6 +353,6 @@ Expected output: ```0030 0030 002f 0000 003f 0020 ffdf 001f 003f ffff 0000 0001 
 ## Authors
 Sameer Alsabei(Sameer-13) [Github](https://github.com/Sameer-13), [Twitter](https://x.com/Sameer_Alsabea), [Linked in](https://www.linkedin.com/in/sameer-alsabea-610291239/)
 
-Hasan [Github](), [Twitter](), [Linked in]()
+Hasan [Github](), [Twitter](), [Linked in](https://www.linkedin.com/in/hassan-alhulays-599524ba/)
 
 Omar [Github](), [Twitter](), [Linked in]()
